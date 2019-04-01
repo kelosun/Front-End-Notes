@@ -10,4 +10,23 @@
   + [操作符](./JavaScript/数据类型.md#car操作符)
   + [流控制语句](./JavaScript/数据类型.md#airplane流控制语句)
   + [Tips](./JavaScript/数据类型.md#trucktips)
++ [变量、作用域和内存问题](./JavaScript/变量、作用域和内存问题.md)
+  + [基本类型]()
+  + [执行环境及作用域]()
+  + [垃圾收集]()
++ [引用类型](./JavaScript/引用类型.md)
+  + [Object类型]()
+  + [Array类型]()
+  + [Date类型]()
+  + [RegExg类型]()
+  + [Function类型]()
+  + [基本包装类型]()
+  + [单体内置对象]()
 
+
+
+###  :foggy:CSS
+
+
+
+### :poodle:HTML
