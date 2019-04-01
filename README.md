@@ -5,4 +5,9 @@
 
 ###  :dolphin: JavaScript
 + [JavaScript的基本类型](./JavaScript/数据类型.md)
+  + [基本语法](./JavaScript/数据类型.md#boat基本语法)
+  + [数据类型](./JavaScript/数据类型.md#rocket数据类型)
+  + [操作符](./JavaScript/数据类型.md#car操作符)
+  + [流控制语句](./JavaScript/数据类型.md#airplane流控制语句)
+  + [Tips](./JavaScript/数据类型.md#trucktips)
 
