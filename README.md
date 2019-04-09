@@ -36,11 +36,11 @@
   + [URI和URL](./Http/Web及网络基础.md#bullettrain_fronturi和url)
 
 + [HTTP状态码](./Http/HTTP状态码.md)
-  + [状态码告知从服务器端返回的请求结果](./Http/HTTP状态码.md#boat状态码告知从服务器端返回的请求结果)
-  + [2xx 成功](./Http/HTTP状态码.md#rocket2xx-成功)
-  + [3xx 重定向](./Http/HTTP状态码.md#car3xx-重定向)
-  + [4xx 客户端错误](./Http/HTTP状态码.md#airplane4xx-客户端错误)
-  + [5xx 服务端错误](./Http/HTTP状态码.md#truck5xx-服务端错误)
+  + [状态码告知从服务器端返回的请求结果](https://github.com/kelosun/Front-End-Notes/blob/master/Http/HTTP%E7%8A%B6%E6%80%81%E7%A0%81.md#boat%E7%8A%B6%E6%80%81%E7%A0%81%E5%91%8A%E7%9F%A5%E4%BB%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AB%AF%E8%BF%94%E5%9B%9E%E7%9A%84%E8%AF%B7%E6%B1%82%E7%BB%93%E6%9E%9C)
+  + [2xx 成功](https://github.com/kelosun/Front-End-Notes/blob/master/Http/HTTP%E7%8A%B6%E6%80%81%E7%A0%81.md#rocket2xx-%E6%88%90%E5%8A%9F)
+  + [3xx 重定向](https://github.com/kelosun/Front-End-Notes/blob/master/Http/HTTP%E7%8A%B6%E6%80%81%E7%A0%81.md#car3xx-%E9%87%8D%E5%AE%9A%E5%90%91)
+  + [4xx 客户端错误](https://github.com/kelosun/Front-End-Notes/blob/master/Http/HTTP%E7%8A%B6%E6%80%81%E7%A0%81.md#airplane4xx-%E5%AE%A2%E6%88%B7%E7%AB%AF%E9%94%99%E8%AF%AF)
+  + [5xx 服务端错误](https://github.com/kelosun/Front-End-Notes/blob/master/Http/HTTP%E7%8A%B6%E6%80%81%E7%A0%81.md#truck5xx-%E6%9C%8D%E5%8A%A1%E7%AB%AF%E9%94%99%E8%AF%AF)
 
 
 
